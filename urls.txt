@@ -1,0 +1,9 @@
+rain_pants_url = https://www.rei.com/product/127340/rei-co-op-rainier-full-zip-rain-pants-mens-tall-sizes?sku=1273400003
+
+gaiters_url = https://www.rei.com/product/204502/outdoor-research-bugout-rocky-mountain-high-gaiters?sku=2045020003
+
+jacket_url = https://www.sportsmans.com/clothing-outdoor-casual-men-women-youth/mens-outdoor/mens-hunting-coats-jackets/killik-mens-summit-tracker-softshell-hunting-jacket/p/1723043
+
+shirt_url = https://www.sportsmans.com/clothing-outdoor-casual-men-women-youth/mens-outdoor/hunting-shirts/killik-mens-summit-cooling-long-sleeve-hunting-shirt/p/1723224
+
+rangefinder_url = https://www.sportsmans.com/hunting-gear-supplies/optics-binoculars-scopes-rangefinders/rangefinders-nightvision/vortex-impact-1000-rangefinder-with-hcd/p/1642745
